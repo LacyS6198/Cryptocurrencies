@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom
+.ipynb_checkpoints/
+.gitignore.bak
+
 # C extensions
 *.so
 
